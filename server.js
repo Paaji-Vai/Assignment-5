@@ -6,7 +6,7 @@
 * 
 *  Name: Japit Singh    Student ID: 113570220   Date: Nov 20, 2023
 *
-*  Online (Cyclic) URL: https://champagne-meerkat-wrap.cyclic.app/blog
+*  Online (Cyclic) URL: https://rich-teal-perch-toga.cyclic.app/about
 *
 ********************************************************************************/ 
 
